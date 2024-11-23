@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025", "1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.csproj", "{976C9817-7E5E-41A0-99B0-ED22E4DA537D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976C9817-7E5E-41A0-99B0-ED22E4DA537D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976C9817-7E5E-41A0-99B0-ED22E4DA537D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976C9817-7E5E-41A0-99B0-ED22E4DA537D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976C9817-7E5E-41A0-99B0-ED22E4DA537D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83AF7D13-14CF-4BC3-931B-30BED2BB2144}
+	EndGlobalSection
+EndGlobal

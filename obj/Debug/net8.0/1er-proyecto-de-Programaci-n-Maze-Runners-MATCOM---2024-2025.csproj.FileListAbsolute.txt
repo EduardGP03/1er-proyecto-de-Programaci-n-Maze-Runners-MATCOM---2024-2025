@@ -1,0 +1,15 @@
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\bin\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.exe
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\bin\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.deps.json
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\bin\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.runtimeconfig.json
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\bin\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.dll
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\bin\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.pdb
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.AssemblyInfoInputs.cache
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.AssemblyInfo.cs
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.csproj.CoreCompileInputs.cache
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.sourcelink.json
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.dll
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\refint\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.dll
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.pdb
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.genruntimeconfig.cache
+C:\Users\Zorro\Desktop\Projects\Programming\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025\obj\Debug\net8.0\ref\1er-proyecto-de-Programaci-n-Maze-Runners-MATCOM---2024-2025.dll
