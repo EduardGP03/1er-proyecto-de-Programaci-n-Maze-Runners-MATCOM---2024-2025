@@ -2,11 +2,11 @@
 {
     static void Main(string[] args)
     {
-        int n = 10; // Size of the board
-        int numPlayers = 3; // Number of players
-        Board board = new Board(n, numPlayers);
-        
-        // Display the generated board
+        GameSettings settings = new GameSettings();
+        settings.ConfigureGame(); // Configures the game settings based on user input
+
+        // Asegúrate de pasar el tamaño del tablero y el número total de jugadores
+        Board board = new Board(settings.BoardSize, settings.Players.Count);
         board.ShowBoard();
     }
 }
